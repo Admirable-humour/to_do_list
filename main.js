@@ -1,3 +1,5 @@
+//Draft JS File
+
 const task_text = document.getElementById('task_text');
 const task_list = document.getElementById('task_list');
 const textarea = document.getElementById("task_text");
