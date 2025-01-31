@@ -1,0 +1,15 @@
+/* Add your styles here */
+body {
+
+    background-color: #d89595;
+    color: rgb(10, 0, 0);
+    font-family: Cambria, serif;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 10vh;
+    margin-bottom: 10px;
+}
