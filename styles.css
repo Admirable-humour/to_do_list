@@ -12,6 +12,12 @@ body {
     align-items: center;
 }
 
+.task_show {
+    font-size: 26px;
+    text-align: left;
+    width: 100%;
+}
+
 #center-title {
     text-align: center;
 }
