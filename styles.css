@@ -18,7 +18,7 @@ body {
     width: 100%;
 }
 
-.task_item{
+.task_item {
     border-style: outset;
     border-radius: 12px;
     border-color: rgb(223, 226, 21);
