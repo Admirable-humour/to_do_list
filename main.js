@@ -1,4 +1,4 @@
-//Draft JS File
+//Draft JS File - does not work.
 
 const task_text = document.getElementById('task_text');
 const task_list = document.getElementById('task_list');

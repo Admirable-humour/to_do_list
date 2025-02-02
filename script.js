@@ -1,3 +1,4 @@
+//Working JS file
 const task_text = document.getElementById('task_text');
 const task_list = document.getElementById('task_list');
 const textarea = document.getElementById("task_text");
@@ -17,6 +18,7 @@ function loadTasks() {
 
 function addTasktoDOM(taskText) {
     const li = document.createElement("li");
+    li.classList.add("task_item"); // Adding a class to the <li>
     li.innerHTML = `${taskText} <img src="delete_icon.svg" alt="Delete task" class="delete-btn">`;
     task_list.appendChild(li);
 }
